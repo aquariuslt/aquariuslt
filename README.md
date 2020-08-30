@@ -7,6 +7,3 @@
 :wrench: Repo: Just see my pined repos or full repo list
 
 
----
-Now work at Tencent.
-
