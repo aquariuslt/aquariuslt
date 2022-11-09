@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aquariuslt! </h2>
-<p><em>Software Enginner at Tencent</em></p>
+<p><em>Software Enginner</em></p>
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aquariuslt)](https://github.com/aquariuslt)
