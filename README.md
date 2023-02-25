@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aquariuslt! </h2>
+<h2> Hi, I'm Aquariuslt! (dont spell it)</h2>
 <p><em>Software Enginner</em></p>
 
 
