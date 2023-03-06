@@ -8,6 +8,7 @@
   
 ### Github Stats
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquariuslt&show_icons=true&count_private=true)](https://github.com/aquariuslt)
 
 :notebook_with_decorative_cover: Blog: [https://zexo.dev](https://zexo.dev)
 
