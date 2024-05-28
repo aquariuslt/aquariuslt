@@ -61,6 +61,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_notable: yes
           plugin_notable_filter: stars:>10
-          plugin_notable_from: organization
-          plugin_notable_types: commit
+          plugin_notable_from: user
           repositories_batch: 50
