@@ -62,3 +62,4 @@ jobs:
           plugin_notable_types: commit
           plugin_projects: yes
           plugin_projects_limit: 4
+          repositories_batch: 50
