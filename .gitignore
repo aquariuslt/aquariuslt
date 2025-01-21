@@ -252,3 +252,6 @@ sketch
 
 ### astro vercel middleware
 .vercel
+
+# Code
+.vscode
