@@ -29,6 +29,7 @@ jobs:
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          repositories_skipped: aquariuslt, aquariuslt/aquariuslt
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
