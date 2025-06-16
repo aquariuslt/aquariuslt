@@ -1,0 +1,35 @@
+name: General Issue
+description: Report a bug, request a feature, or ask for clarification
+title: '[type]: short description'
+labels: [ needs-triage ]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: A brief summary of the issue or feature request.
+      placeholder: "e.g. 'feat: support exporting filtered incidents'"
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: |
+        Please describe the behavior you're seeing or expecting.
+        For bugs, include steps to reproduce and relevant code or screenshots.
+      placeholder: |
+        What is happening or what would you like to happen?
+        Any relevant background, error logs, or reproduction steps.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: clarification
+    attributes:
+      label: Needs Maintainer Input?
+      description: Select if you're unsure about something and need confirmation.
+      options:
+        - label: I need confirmation before implementation (e.g., expected behavior, naming, data shape).
+        - label: I am unsure if this is in scope of the project.
